@@ -1,0 +1,3 @@
+[submodule "themes/landing_page"]
+	path = themes/landing_page
+	url = https://github.com/danielkvist/hugo-piercer-theme.git
